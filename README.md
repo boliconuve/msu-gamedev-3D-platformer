@@ -15,3 +15,6 @@ My main goal with this project is to learn and apply art, design and programming
   - Learn to create particle effects.
   - Understanding ad hoc programming vs. generalized programming.
   - Be exposed to more complex game systems.
+  - Continuing to familiarise myself with the Unity editor.
+  - Using Unity best practices.
+  - Using Unity's best tips and techniques.
